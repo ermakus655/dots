@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dots", "dots\dots.csproj", "{15231EA4-10D2-4B24-B237-E745C3C00CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dots_server", "dots_server\dots_server.csproj", "{56334DF1-804F-41C5-8733-6A0C0CED0906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15231EA4-10D2-4B24-B237-E745C3C00CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15231EA4-10D2-4B24-B237-E745C3C00CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15231EA4-10D2-4B24-B237-E745C3C00CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15231EA4-10D2-4B24-B237-E745C3C00CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56334DF1-804F-41C5-8733-6A0C0CED0906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56334DF1-804F-41C5-8733-6A0C0CED0906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56334DF1-804F-41C5-8733-6A0C0CED0906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56334DF1-804F-41C5-8733-6A0C0CED0906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651A56B9-3922-4A67-9731-B51607D519D9}
+	EndGlobalSection
+EndGlobal
